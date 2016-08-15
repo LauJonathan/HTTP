@@ -1,0 +1,5 @@
+contentType:
+1.$.ajax------ contentType: 'application/json;charset=UTF-8' (json类型)
+  原生js返回的应是字符类型xhr.responseText
+2.表单form默认类型：      enctype="application/x-www-form-urlencoded"
+  表单二进制文件传输类型：enctype="multipart/form-data"
